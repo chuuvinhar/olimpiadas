@@ -1,0 +1,16 @@
+body{
+    background-color: #F9F9F9;
+    margin: 0;
+}
+@font-face{
+    font-family: OPTICivet-Bold;
+
+    
+    src: url(fontes/OPTICivet-Bold.otf);
+}
+h1{
+    font-family: OPTICivet-Bold;
+}
+img{
+    filter: brightness(0.525) 
+}
